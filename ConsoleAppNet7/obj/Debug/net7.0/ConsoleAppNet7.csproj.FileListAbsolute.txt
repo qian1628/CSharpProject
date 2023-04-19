@@ -1,0 +1,13 @@
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\bin\Debug\net7.0\ConsoleAppNet7.exe
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\bin\Debug\net7.0\ConsoleAppNet7.deps.json
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\bin\Debug\net7.0\ConsoleAppNet7.runtimeconfig.json
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\bin\Debug\net7.0\ConsoleAppNet7.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.csproj.AssemblyReference.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.AssemblyInfoInputs.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.AssemblyInfo.cs
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.csproj.CoreCompileInputs.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\refint\ConsoleAppNet7.dll
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ConsoleAppNet7.genruntimeconfig.cache
+C:\Users\vsdiagtester\source\repos\ConsoleAppNet7\ConsoleAppNet7\obj\Debug\net7.0\ref\ConsoleAppNet7.dll
